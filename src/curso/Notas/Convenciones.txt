@@ -1,0 +1,5 @@
+-Variables-
+
+For the sake of good practices and readability,
+ methods and attributes should always be named by camelCase convention,
+ classes in Java must begin with a capital letter, also avoid initializing names with a number.

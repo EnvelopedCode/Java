@@ -1,0 +1,3 @@
+Avoid  keyword usage for class names
+
+Strings are objects, one example is .UpperCase(); to print out the string in all caps
